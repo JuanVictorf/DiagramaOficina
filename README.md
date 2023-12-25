@@ -44,4 +44,5 @@ Este banco de dados foi projetado para gerenciar e controlar a execução de ord
 - Ordem de Serviço (Serviços) -> Relacionamento N:M
 - Ordem de Serviço (Peças) -> Relacionamento N:M
 
-Este esquema de banco de dados permite a gestão e controle das ordens de serviço, associando clientes, equipes, serviços prestados e peças utilizadas durante o processo de execução dos serviços na oficina mecânica.
+
+![oficina drawio](https://github.com/JuanVictorf/DiagramaOficina/assets/68507832/6d43dce4-1636-4fa1-80c2-a7d9ef11fa63)
